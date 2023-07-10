@@ -1,0 +1,133 @@
+h1{
+    text-align: center;
+}
+
+.container{
+    width:1170px;
+    border:1px solid black;
+    margin:0 auto;
+    height: 600px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 100px;
+}
+.first{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(107, 151, 240);
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 30px;
+    box-shadow: 2px 2px 5px;
+}
+.first_1 p{
+    margin: 10px;
+    padding:13px;
+}
+.second{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: lightgray;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.second_2 p{
+    margin: 10px;
+    padding:13px;
+}
+.third{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: lightgreen;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.third_3 p{
+    margin: 10px;
+    padding:13px;
+}
+.fourth{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: lightpink;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.fourth_4 p{
+    margin: 10px;
+    padding:13px;
+}
+.five{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(252, 252, 132);
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.five_5 p{
+    margin: 10px;
+    padding:13px;
+}
+.six{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: lightblue;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.six_6 p{
+    margin: 10px;
+    padding:13px;
+}
+.seven{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.seven_7 p{
+    margin: 10px;
+    padding:13px;
+}
+.eight{
+    border-radius: 2px;
+    height: 50px;
+    width: 100%;
+    background-color: grey;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px;
+}
+.eight_8 p{
+    margin: 10px;
+    padding:13px;
+}
